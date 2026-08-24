@@ -33,9 +33,7 @@ Instead of manually searching for hundreds of references, the user pastes a list
 ---
 
 ## 👨‍💻 Developer
-**Ziad Ehab** 
-- Mathematics & Computer Science
-- Passionate about workflow automation...
+
 **Ziad Ehab** 
 - Mathematics & Computer Science
 - Passionate about workflow automation and building practical desktop solutions.
